@@ -1,6 +1,6 @@
 # Installation
 
-> Before this installation steps, please setup [two domains ]()first.
+> Before this installation steps, please setup [two domains ](./#domains)first.
 
 1. [Clone Repo](installation.md#clone-repo)
 2. [Install node dependencies](installation.md#2-install-node-dependencies)
