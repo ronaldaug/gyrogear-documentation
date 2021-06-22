@@ -4,8 +4,11 @@ description: Clinic is very similar to admin users.
 
 # Clinic
 
+* [Clinic](clinic.md#clinic)
 * [Clinic Roles](clinic.md#roles)
 * [Clinic Permissions](clinic.md#permissions)
+
+## Clinic
 
 A new Clinic can be created, edited and deleted as below screenshot.
 
