@@ -1,6 +1,6 @@
 # Users
 
-A new user who will manage the **Clinic Dashboard** can be created under users section as below. 
+A new **User** who will manage the **Clinic Dashboard** can be created under **Users** section as below. 
 
 ![](../.gitbook/assets/add-user.png)
 
