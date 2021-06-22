@@ -36,5 +36,7 @@ Clinic has its' own **roles and permissions** scenario like admin.
 
 Each role of clinic has several permissions such as users, patients and visits. By default, no checkbox is checked and it will show all the sidebar menus in [Clinic Dashboard ](../clinic-dashboard/). 
 
+If one checkbox is checked, it will display or allow only the one that is checked.
+
 ![](../.gitbook/assets/clinic-role-per.jpg)
 
