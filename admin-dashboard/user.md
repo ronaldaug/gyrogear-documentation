@@ -28,7 +28,7 @@ Admin can click on `roles and permissions` and manage a specific role as below s
 
 > This roles and permission are only related to Admin user.
 
-For Clinic role and permission, [please check here](clinic.md)
+> For Clinic role and permission, [please check here](clinic.md)
 
 ![](../.gitbook/assets/role.png)
 

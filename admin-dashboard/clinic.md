@@ -18,6 +18,10 @@ A new Clinic can be created, edited and deleted as below screenshot.
 
 Clinic has its' own **roles and permissions** scenario like admin. 
 
+> This roles and permission are only related to Clinic.
+
+> For Admin role and permission, [please check here](clinic.md)
+
 ![](../.gitbook/assets/clinic-role-permission.png)
 
 > Note : By default, roles and permissions for Clinic is not showing. Must go to a route like 
